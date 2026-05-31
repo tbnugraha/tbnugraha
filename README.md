@@ -1,28 +1,26 @@
 # Hi, I'm Bintang 👋
 
-I build regulated fintech and two-sided platforms in Southeast Asia — products that bring people the financial system usually leaves out into it: pawn credit, gold savings, work, and payments.
+I build fintech products in Indonesia, mostly for people the banks ignore.
 
-My through-line is **financial inclusion for underserved Indonesians**, and I've learned that the durable products in this space win on two things most builders treat as overhead: **regulation** (a license is a moat, not a cost) and **trust** (people put their gold, their loan, and their next job in your hands). I build for both.
+That's the thread across everything I work on: pawn loans, gold savings, jobs, payments. Stuff regular Indonesians actually use to get by. The boring-but-hard parts (getting the license, passing the audits, making people trust you with their money) are usually what makes or breaks these products, so that's where I spend my time.
 
-Before this, I spent **5 years at Traveloka**, one of Southeast Asia's largest super-apps, building **payment products** and building **Traveloka Points** — the company-wide loyalty program — from zero. Taking a system from a blank page to something woven through a product millions of people use is the work I love most.
+Before all this I was at **Traveloka** for 5 years. I worked on payments and built **Traveloka Points**, the loyalty program, from scratch. Going from an empty doc to something millions of people use every day is still my favorite kind of work.
 
-## What I build
+## What I work on
 
-- **[Pandai Gadai](https://pandaigadai.com)** — OJK-regulated digital pawn & lending. Credit for people the banks don't serve, with the license and compliance built as core product, not paperwork.
-- **[Pintarnya](https://pintarnya.com)** — one of Indonesia's largest job & gig platforms, connecting blue-collar and entry-level workers with employers at scale.
-- **[Pipe](https://pipeidr.com)** — IDR stablecoin and on-chain payment rails: moving money faster and cheaper than the legacy stack allows.
-- **[Pandai Emas](https://pandaiemas.id)** — buy & sell gold, the most trusted way Indonesians save. *(developer)*
+- **[Pandai Gadai](https://pandaigadai.com)**: digital pawnshop and lending, licensed by OJK. Credit for people the banks won't touch.
+- **[Pintarnya](https://pintarnya.com)**: a big job platform here, matching blue-collar and entry-level workers with employers.
+- **[Pipe](https://pipeidr.com)**: IDR stablecoin and on-chain payments. Faster and cheaper than the old rails.
+- **[Pandai Emas](https://pandaiemas.id)**: buy and sell gold, which is how a lot of Indonesians save. *(I'm the developer here.)*
 
-## How I build
+## How I think about building
 
-- **Outcomes, not output.** A launch isn't a win — a changed user behavior is. I gate work on a clear hypothesis ("users will go from X to Y"), steer by the few input levers I can actually move, and cut what doesn't move the behavior, however nice it looked in the mock.
-- **Strategy is the diagnosis, not the goal.** Before the roadmap I name the one hardest thing holding the product back, then point limited resources at that crux instead of spreading thin across everything that sounds important.
-- **The hard parts are the product.** In regulated fintech the license, the compliance, and the feeling of safety aren't overhead around the product — they *are* it. I design them in.
-- **The last mile is the job.** "Mostly done" is closer to zero than to done; the empty states, the edge cases, and whether real users actually adopt it are where the value lives, so that's where I spend.
-- **Decide under uncertainty, then commit.** The data never fully settles it. I size how reversible a call is, treat intuition as a hypothesis to test rather than a verdict, decide, and own it.
+- **Shipping isn't winning.** If a feature doesn't change what users actually do, it didn't matter, no matter how good the demo looked.
+- **Figure out the real problem first.** Most roadmaps skip this and just list stuff. I'd rather name the one thing that's actually stuck and put everyone on that.
+- **In fintech, the hard parts *are* the product.** The license, the compliance, the feeling of "my money is safe here." That's not overhead, that's the thing.
+- **The last 10% is the whole job.** Empty states, errors, edge cases, getting people to actually use it. "Almost done" usually means barely started.
+- **Decide, then own it.** The data never fully tells you what to do. I weigh how hard a call is to undo, make the bet, and live with it.
 
 ## Reach me
 
 📫 **teguhbnugraha@gmail.com**
-
-<!-- profile -->
